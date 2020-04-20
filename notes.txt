@@ -1,0 +1,16 @@
+I have used Tasks & Task Parallel Library and Backgroundworker in my projects. The idea behind the implementation is to add actions in a queue and a worker thread will process the queue. A process/application queues the action QueueAction(Action action)  at any time and worker is ready to dequeue a action and execute it.
+
+Solution is developed using Visual Studio 2019 and .Net Core 3.1
+
+There are couple of ways to achieve that. I have provided a solution containing two projects.
+
+
+1- using Task and queue
+2- using Backgroundworker and queue
+
+
+TDD approach is used to create the solution. Tests were written before starting. That gives a clear idea  what is the target and what is going to be achieved. Following tests are written for both solutions:
+ActionInvokedTest  - to test if action is invoked
+ActionInvokedOnceTest - to test if a single action is invoked only once
+ActionExecutedSequentiallyTest - to test if multiple actions are added, they are executed sequentially/in the same order.
+

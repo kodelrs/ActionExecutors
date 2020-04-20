@@ -1,0 +1,8 @@
+C:\net\microservices\ActionExecutors\ActionExecutors\bin\Debug\ActionExecutors.exe.config
+C:\net\microservices\ActionExecutors\ActionExecutors\bin\Debug\ActionExecutors.exe
+C:\net\microservices\ActionExecutors\ActionExecutors\bin\Debug\ActionExecutors.pdb
+C:\net\microservices\ActionExecutors\ActionExecutors\obj\Debug\ActionExecutors.csprojAssemblyReference.cache
+C:\net\microservices\ActionExecutors\ActionExecutors\obj\Debug\ActionExecutors.Properties.Resources.resources
+C:\net\microservices\ActionExecutors\ActionExecutors\obj\Debug\ActionExecutors.csproj.GenerateResource.cache
+C:\net\microservices\ActionExecutors\ActionExecutors\obj\Debug\ActionExecutors.exe
+C:\net\microservices\ActionExecutors\ActionExecutors\obj\Debug\ActionExecutors.pdb

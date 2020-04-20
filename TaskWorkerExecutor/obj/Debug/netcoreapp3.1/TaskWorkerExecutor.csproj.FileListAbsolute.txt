@@ -1,0 +1,8 @@
+C:\net\microservices\ActionExecutors\TaskWorkerExecutor\bin\Debug\netcoreapp3.1\TaskWorkerExecutor.deps.json
+C:\net\microservices\ActionExecutors\TaskWorkerExecutor\bin\Debug\netcoreapp3.1\TaskWorkerExecutor.dll
+C:\net\microservices\ActionExecutors\TaskWorkerExecutor\bin\Debug\netcoreapp3.1\TaskWorkerExecutor.pdb
+C:\net\microservices\ActionExecutors\TaskWorkerExecutor\obj\Debug\netcoreapp3.1\TaskWorkerExecutor.AssemblyInfoInputs.cache
+C:\net\microservices\ActionExecutors\TaskWorkerExecutor\obj\Debug\netcoreapp3.1\TaskWorkerExecutor.AssemblyInfo.cs
+C:\net\microservices\ActionExecutors\TaskWorkerExecutor\obj\Debug\netcoreapp3.1\TaskWorkerExecutor.dll
+C:\net\microservices\ActionExecutors\TaskWorkerExecutor\obj\Debug\netcoreapp3.1\TaskWorkerExecutor.pdb
+C:\net\microservices\ActionExecutors\TaskWorkerExecutor\obj\Debug\netcoreapp3.1\TaskWorkerExecutor.csprojAssemblyReference.cache

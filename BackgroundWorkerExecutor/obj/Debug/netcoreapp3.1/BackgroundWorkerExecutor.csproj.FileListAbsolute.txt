@@ -1,0 +1,8 @@
+C:\net\microservices\ActionExecutors\BackgroundWorkerExecutor\bin\Debug\netcoreapp3.1\BackgroundWorkerExecutor.deps.json
+C:\net\microservices\ActionExecutors\BackgroundWorkerExecutor\bin\Debug\netcoreapp3.1\BackgroundWorkerExecutor.dll
+C:\net\microservices\ActionExecutors\BackgroundWorkerExecutor\bin\Debug\netcoreapp3.1\BackgroundWorkerExecutor.pdb
+C:\net\microservices\ActionExecutors\BackgroundWorkerExecutor\obj\Debug\netcoreapp3.1\BackgroundWorkerExecutor.AssemblyInfoInputs.cache
+C:\net\microservices\ActionExecutors\BackgroundWorkerExecutor\obj\Debug\netcoreapp3.1\BackgroundWorkerExecutor.AssemblyInfo.cs
+C:\net\microservices\ActionExecutors\BackgroundWorkerExecutor\obj\Debug\netcoreapp3.1\BackgroundWorkerExecutor.dll
+C:\net\microservices\ActionExecutors\BackgroundWorkerExecutor\obj\Debug\netcoreapp3.1\BackgroundWorkerExecutor.pdb
+C:\net\microservices\ActionExecutors\BackgroundWorkerExecutor\obj\Debug\netcoreapp3.1\BackgroundWorkerExecutor.csprojAssemblyReference.cache
